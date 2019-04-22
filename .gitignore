@@ -1,0 +1,11 @@
+# Apache config file
+.htaccess
+
+# Mac OS files
+.DS_Store
+
+# Development environment
+.vscode
+
+# Misc files
+*.log
